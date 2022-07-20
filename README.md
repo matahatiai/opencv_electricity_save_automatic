@@ -1,4 +1,4 @@
-# CV_human_switch
+# Electricity Automatic Use Camera
 Membuat saklar deteksi wajah dan pose dengan computer vision
 
 # Instalasi
